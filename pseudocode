@@ -1,0 +1,9 @@
+while connected{
+	
+	update counter(60hz)
+	
+	check for user input(button press(60hz))
+		if input(update counter to server)
+		
+	
+}
